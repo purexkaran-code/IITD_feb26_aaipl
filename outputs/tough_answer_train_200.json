@@ -1,0 +1,3202 @@
+[
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q1)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q2)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q3)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q4)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q5)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q6)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q7)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q8)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q9)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q10)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q11)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q12)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q13)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q14)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q15)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q16)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q17)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q18)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q19)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q20)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q21)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q22)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q23)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q24)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q25)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q26)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q27)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q28)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q29)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q30)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q31)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q32)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q33)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q34)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q35)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q36)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q37)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q38)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q39)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q40)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q41)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q42)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q43)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q44)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q45)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q46)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q47)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q48)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q49)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "All A are B. No B are C. Some C are D. Which conclusion is logically valid? (Q50)",
+      "choices": [
+        "A) Some A are D",
+        "B) No A are C",
+        "C) Some B are D",
+        "D) None follows"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "If all A are B and no B are C, then A cannot be C."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q1)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q2)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q3)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q4)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q5)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q6)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q7)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q8)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q9)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q10)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q11)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q12)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q13)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q14)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q15)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q16)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q17)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q18)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q19)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q20)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q21)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q22)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q23)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q24)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q25)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q26)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q27)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q28)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q29)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q30)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q31)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q32)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q33)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q34)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q35)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q36)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q37)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q38)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q39)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q40)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q41)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q42)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q43)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q44)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q45)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q46)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q47)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q48)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q49)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "Eight people sit around a circular table. A cannot sit next to B or C. How many valid arrangements exist? (Q50)",
+      "choices": [
+        "A) 720",
+        "B) 1440",
+        "C) 2160",
+        "D) 2520"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Using circular permutations with adjacency restrictions reduces total valid arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q1)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q2)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q3)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q4)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q5)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q6)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q7)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q8)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q9)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q10)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q11)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q12)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q13)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q14)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q15)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q16)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q17)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q18)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q19)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q20)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q21)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q22)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q23)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q24)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q25)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q26)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q27)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q28)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q29)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q30)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q31)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q32)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q33)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q34)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q35)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q36)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q37)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q38)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q39)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q40)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q41)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q42)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q43)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q44)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q45)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q46)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q47)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q48)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q49)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "A is the brother of B. B is the daughter of C. D is the father of C. How is D related to A? (Q50)",
+      "choices": [
+        "A) Grandfather",
+        "B) Uncle",
+        "C) Father",
+        "D) Brother"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "D is father of C and C is parent of A \u2192 D is A's grandfather."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q1)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q2)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q3)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q4)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q5)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q6)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q7)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q8)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q9)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q10)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q11)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q12)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q13)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q14)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q15)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q16)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q17)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q18)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q19)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q20)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q21)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q22)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q23)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q24)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q25)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q26)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q27)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q28)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q29)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q30)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q31)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q32)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q33)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q34)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q35)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q36)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q37)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q38)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q39)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q40)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q41)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q42)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q43)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q44)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q45)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q46)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q47)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q48)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q49)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  },
+  {
+    "instruction": "Solve the question.",
+    "input": {
+      "question": "AZ1, CX4, EV9, GT16, IR25, ___ (Q50)",
+      "choices": [
+        "A) KP36",
+        "B) KP30",
+        "C) LS36",
+        "D) LS49"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Letters skip +2 positions while numbers are perfect squares."
+    }
+  }
+]

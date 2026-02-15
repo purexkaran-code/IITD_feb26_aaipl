@@ -1,0 +1,66 @@
+[
+  {
+    "instruction": "Generate a logical reasoning question.",
+    "input": "Topic: Syllogisms",
+    "output": {
+      "topic": "Syllogisms",
+      "question": "All birds have wings. Some animals are birds. What follows?",
+      "choices": [
+        "A) Some animals have wings",
+        "B) All animals are birds",
+        "C) Some birds are animals",
+        "D) None"
+      ],
+      "correct_answer": "A",
+      "explanation": "Animals that are birds must have wings."
+    }
+  },
+  {
+    "instruction": "Generate a puzzle question.",
+    "input": "Topic: Seating Arrangements (Linear, Circular)",
+    "output": {
+      "topic": "Seating Arrangements (Linear, Circular)",
+      "question": "Four people sit in a row. In how many ways can they sit?",
+      "choices": [
+        "A) 24",
+        "B) 16",
+        "C) 12",
+        "D) 8"
+      ],
+      "correct_answer": "A",
+      "explanation": "4! = 24 arrangements."
+    }
+  },
+  {
+    "instruction": "Generate a blood relation question.",
+    "input": "Topic: Family tree logic",
+    "output": {
+      "topic": "Family tree logic",
+      "question": "Ravi says, 'She is the daughter of my mother's brother.' How is she related to Ravi?",
+      "choices": [
+        "A) Sister",
+        "B) Cousin",
+        "C) Aunt",
+        "D) Niece"
+      ],
+      "correct_answer": "B",
+      "explanation": "Mother\u2019s brother is uncle; his daughter is cousin."
+    }
+  },
+  {
+    "instruction": "Generate a series question.",
+    "input": "Topic: Mixed Series (Alphanumeric)",
+    "output": {
+      "topic": "Mixed Series (Alphanumeric)",
+      "question": "A1, B2, C3, D4, ___",
+      "choices": [
+        "A) E4",
+        "B) E5",
+        "C) F5",
+        "D) E6"
+      ],
+      "correct_answer": "B",
+      "explanation": "Alphabet and numbers increase sequentially."
+    }
+  }
+]

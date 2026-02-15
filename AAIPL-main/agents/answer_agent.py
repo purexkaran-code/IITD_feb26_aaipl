@@ -1,12 +1,12 @@
 import json
 import argparse
-from agents.answer_model import AnswerModel
+from answer_model import AnswerModel
 
 def main():
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("--input_file", default="outputs/filtered_questions.json")
-    parser.add_argument("--output_file", default="outputs/answers.json")
+    parser.add_argument("--input_file", default="outputs/question_train.json")
+    parser.add_argument("--output_file", default="outputs/answer_train.json")
     parser.add_argument("--verbose", action="store_true")
     args = parser.parse_args()
 

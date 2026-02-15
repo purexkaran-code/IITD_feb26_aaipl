@@ -1,0 +1,66 @@
+[
+  {
+    "instruction": "Solve the syllogism and explain.",
+    "input": {
+      "question": "All birds have wings. Some animals are birds. What follows?",
+      "choices": [
+        "A) Some animals have wings",
+        "B) All animals are birds",
+        "C) Some birds are animals",
+        "D) None"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "Animals that are birds must have wings."
+    }
+  },
+  {
+    "instruction": "Solve the puzzle.",
+    "input": {
+      "question": "Four people sit in a row. In how many ways can they sit?",
+      "choices": [
+        "A) 24",
+        "B) 16",
+        "C) 12",
+        "D) 8"
+      ]
+    },
+    "output": {
+      "answer": "A",
+      "reasoning": "4! equals 24 arrangements."
+    }
+  },
+  {
+    "instruction": "Solve the blood relation question.",
+    "input": {
+      "question": "Ravi says, 'She is the daughter of my mother's brother.' How is she related to Ravi?",
+      "choices": [
+        "A) Sister",
+        "B) Cousin",
+        "C) Aunt",
+        "D) Niece"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Mother\u2019s brother is uncle; his daughter is cousin."
+    }
+  },
+  {
+    "instruction": "Solve the series.",
+    "input": {
+      "question": "A1, B2, C3, D4, ___",
+      "choices": [
+        "A) E4",
+        "B) E5",
+        "C) F5",
+        "D) E6"
+      ]
+    },
+    "output": {
+      "answer": "B",
+      "reasoning": "Alphabet and numbers increase sequentially."
+    }
+  }
+]

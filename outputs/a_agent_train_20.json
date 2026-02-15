@@ -1,0 +1,62 @@
+[
+  {
+    "question": "All roses are flowers. Some flowers fade quickly. Which statement must be true?",
+    "choices": ["A) All roses fade quickly", "B) Some roses fade quickly", "C) No roses fade quickly", "D) Roses may or may not fade quickly"],
+    "answer": "D",
+    "reasoning": "We know roses are flowers, and some flowers fade quickly, but we do not know if those flowers include roses."
+  },
+  {
+    "question": "If all doctors are educated and some educated people are musicians, what can be concluded?",
+    "choices": ["A) Some doctors are musicians", "B) No doctors are musicians", "C) Doctors may or may not be musicians", "D) All musicians are doctors"],
+    "answer": "C",
+    "reasoning": "There is no direct connection between doctors and musicians."
+  },
+  {
+    "question": "Five friends sit in a row. R is immediately left of S. T sits at the far right. Who cannot sit at the far left?",
+    "choices": ["A) R", "B) S", "C) T", "D) U"],
+    "answer": "B",
+    "reasoning": "S must sit to the right of R, so S cannot be at the far left."
+  },
+  {
+    "question": "Pointing to a man, Riya said: 'He is the son of my grandfather’s only son.' Who is the man?",
+    "choices": ["A) Her brother", "B) Her cousin", "C) Her father", "D) Her uncle"],
+    "answer": "A",
+    "reasoning": "Grandfather’s only son is her father; his son is her brother."
+  },
+  {
+    "question": "If P is the mother of Q and Q is the sister of R, how is P related to R?",
+    "choices": ["A) Aunt", "B) Mother", "C) Sister", "D) Grandmother"],
+    "answer": "B",
+    "reasoning": "Q and R are siblings; therefore P is mother of R."
+  },
+  {
+    "question": "Find the next term: A1, C3, E5, G7, ?",
+    "choices": ["A) H8", "B) I9", "C) I8", "D) J9"],
+    "answer": "B",
+    "reasoning": "Letters increase by 2 positions and numbers increase by 2."
+  },
+  {
+    "question": "All squares are rectangles. Some rectangles are blue. Which statement is correct?",
+    "choices": ["A) All squares are blue", "B) Some squares are blue", "C) Squares may or may not be blue", "D) No squares are blue"],
+    "answer": "C",
+    "reasoning": "No direct connection between squares and blue rectangles."
+  },
+  {
+    "question": "If some birds cannot fly and all sparrows are birds, what is true?",
+    "choices": ["A) Sparrows cannot fly", "B) Sparrows can fly", "C) Sparrows may or may not fly", "D) No birds can fly"],
+    "answer": "C",
+    "reasoning": "We cannot conclude about sparrows specifically."
+  },
+  {
+    "question": "Ravi is the brother of Sita. Sita is the daughter of Mohan. How is Mohan related to Ravi?",
+    "choices": ["A) Father", "B) Uncle", "C) Grandfather", "D) Brother"],
+    "answer": "A",
+    "reasoning": "Ravi and Sita are siblings; Mohan is their father."
+  },
+  {
+    "question": "Find next: Z1, Y2, X3, W4, ?",
+    "choices": ["A) V5", "B) U6", "C) V4", "D) T5"],
+    "answer": "A",
+    "reasoning": "Letters move backward and numbers increase."
+  }
+]

@@ -5,7 +5,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 class QuestionModel:
     def __init__(self):
 
-        model_path = "hf_models/Qwen2.5-7B-Instruct"
+        model_path = "Qwen/Qwen2.5-7B-Instruct"
 
         self.tokenizer = AutoTokenizer.from_pretrained(model_path)
         self.model = AutoModelForCausalLM.from_pretrained(

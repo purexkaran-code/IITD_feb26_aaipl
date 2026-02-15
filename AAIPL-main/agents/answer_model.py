@@ -5,7 +5,7 @@ from unsloth import FastLanguageModel
 class AnswerModel:
     def __init__(self):
 
-        base_model = "hf_models/Qwen2.5-14B-Instruct"
+        base_model = "Qwen/Qwen2.5-14B-Instruct"
 
         print("Loading Answer Model...")
 

@@ -1,73 +1,59 @@
+import json
 import torch
-from transformers import AutoTokenizer, AutoModelForCausalLM
-
+from unsloth import FastLanguageModel
 
 class AnswerModel:
     def __init__(self):
-        self.model_path = "hf_models/Qwen2.5-7B-Instruct"
-        self.tokenizer = AutoTokenizer.from_pretrained(self.model_path)
-        self.model = AutoModelForCausalLM.from_pretrained(
-            self.model_path,
-            torch_dtype=torch.float16,
-            device_map="auto"
+
+        base_model = "hf_models/Qwen2.5-14B-Instruct"
+
+        print("Loading Answer Model...")
+
+        self.model, self.tokenizer = FastLanguageModel.from_pretrained(
+            model_name=base_model,
+            dtype=torch.bfloat16,
+            load_in_4bit=False,
         )
 
-    def answer_question(self, question_input):
+        # Load LoRA if exists
+        try:
+            self.model.load_adapter("a_agent_lora")
+            print("✅ LoRA adapter loaded")
+        except:
+            print("⚠️ No LoRA found — using base model")
 
-        # If input is JSON dict
-        if isinstance(question_input, dict):
-            question_text = f"""
-Question:
-{question_input.get("question", "")}
+        self.model.eval()
 
-Choices:
-{chr(10).join(question_input.get("choices", []))}
-"""
-        else:
-            # If input is plain text
-            question_text = str(question_input)
+    def answer_question(self, question_data):
+
+        question_text = question_data["question"]
+        choices = "\n".join(question_data["choices"])
 
         prompt = f"""
-You are a highly careful logical reasoning expert.
-
-Read the question carefully.
-Think silently.
-Select the single correct option.
-
-Return ONLY one letter: A, B, C, or D.
+Solve the logical reasoning question.
 
 {question_text}
+
+Choices:
+{choices}
+
+Respond ONLY in JSON:
+
+{{"answer":"A","reasoning":"brief explanation"}}
 """
 
-        messages = [
-            {"role": "system", "content": "You are a precise logical reasoning solver."},
-            {"role": "user", "content": prompt}
-        ]
-
-        text = self.tokenizer.apply_chat_template(
-            messages,
-            tokenize=False,
-            add_generation_prompt=True
-        )
-
-        inputs = self.tokenizer(text, return_tensors="pt").to(self.model.device)
+        inputs = self.tokenizer(prompt, return_tensors="pt").to(self.model.device)
 
         output = self.model.generate(
-    **inputs,
-    max_new_tokens=512,   # match config
-    temperature=0.1,
-    top_p=0.9,
-    repetition_penalty=1.2,
-    do_sample=True
-)
+            **inputs,
+            max_new_tokens=100,
+            temperature=0.1,
+            top_p=0.9
+        )
 
+        text = self.tokenizer.decode(output[0], skip_special_tokens=True)
 
-        input_length = inputs["input_ids"].shape[1]
-        new_tokens = output[0][input_length:]
-        decoded = self.tokenizer.decode(new_tokens, skip_special_tokens=True).strip()
+        start = text.find("{")
+        end = text.rfind("}") + 1
 
-        for char in decoded:
-            if char in ["A", "B", "C", "D"]:
-                return char
-
-        return "A"
+        return json.loads(text[start:end])

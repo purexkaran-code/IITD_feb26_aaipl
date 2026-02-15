@@ -69,16 +69,28 @@ This project implements two intelligent agents for the **AMD AI Premier League (
 ## 📂 Project Structure
 
 ```
-AAIPL/
+📂 Project Structure
+AAIPL-main/
 │
 ├── agents/
-│   ├── question_model.py
 │   ├── question_agent.py
+│   ├── answer_agent.py
+│   ├── question_model.py
 │   ├── answer_model.py
-│   └── answer_agent.py
+│
+├── assets/
+│   ├── topics.json
+│   ├── sample_question.json
+│   ├── sample_answer.json
 │
 ├── outputs/
-└── assets/
+│   ├── question_train.json
+│   ├── answer_train.json
+│   ├── tough_question_train_200.json
+│   ├── tough_answer_train_200.json
+│
+├── utils/
+├── README.md
 ```
 
 ---
@@ -115,3 +127,4 @@ Our approach focuses on **logical clarity, robustness, and efficiency**, ensurin
 ---
 
 ⭐ Built with dedication for AAIPL.
+
